@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  ProfileViewController.swift
 //  OTUS-GPB-VIPER-HW
 //
 //  Created by Aleksandr Chebotarev on 11/30/22.
@@ -7,7 +7,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ProfileViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -16,4 +16,3 @@ class ViewController: UIViewController {
 
 
 }
-
